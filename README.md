@@ -5,7 +5,7 @@ The repository contains the core codes of "[AtrialGeneral: Domain Generalization
 The code includes four baseline models (U-Net, U-Net++, DeepLab v3+ and MAnet) and three model generalization schemes.
 The schemes include histogram matching (HM), mutual information based disentangled representation, and random style transfer.
 
-<img src="https://github.com/Marie0909/AtrialGeneral/edit/main/AtrialGeneral.pdf" width="300" height="450" />
+<img src="https://github.com/Marie0909/AtrialGeneral/edit/main/AtrialGeneral.png" width="300" height="450" />
 
 ## Dataset
 The dataset employed in this work is from:
