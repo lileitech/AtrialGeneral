@@ -5,8 +5,6 @@ The repository contains the core codes of "[AtrialGeneral: Domain Generalization
 The code includes four baseline models (U-Net, U-Net++, DeepLab v3+ and MAnet) and three model generalization schemes.
 The schemes include histogram matching (HM), mutual information based disentangled representation, and random style transfer.
 
-"https://github.com/Marie0909/AtrialGeneral/edit/main/AtrialGeneral.png"
-
 ## Dataset
 The dataset employed in this work is from:
 [ISBI 2012: Left Atrium Fibrosis and Scar Segmentation Challenge](http://atriaseg2018.cardiacatlas.org/) and
