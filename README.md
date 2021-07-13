@@ -13,11 +13,11 @@ The dataset employed in this work is from:
 ## Cite
 If this code is useful for you, please kindly cite this work via:
 
-@article{li2021atrialgeneral,
-  title={AtrialGeneral: Domain Generalization for Left Atrial Segmentation of Multi-Center LGE MRIs},
-  author={Li, Lei and Zimmer, Veronika A and Schnabel, Julia A and Zhuang, Xiahai},
-  journal={arXiv preprint arXiv:2106.08727},
-  year={2021}
-}
+@article{li2021atrialgeneral,  
+  title={AtrialGeneral: Domain Generalization for Left Atrial Segmentation of Multi-Center LGE MRIs},  
+  author={Li, Lei and Zimmer, Veronika A and Schnabel, Julia A and Zhuang, Xiahai},  
+  journal={arXiv preprint arXiv:2106.08727},  
+  year={2021}  
+}  
 
 If you have any questions, please contact lilei.sky@sjtu.edu.cn.
