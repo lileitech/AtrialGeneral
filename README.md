@@ -15,8 +15,8 @@ If this code is useful for you, please kindly cite this work via:
 
 @InProceedings{conf/MICCAI/li2021,  
   title={AtrialGeneral: Domain Generalization for Left Atrial Segmentation of Multi-Center LGE MRIs},  
-  author={Li, Lei and Zimmer, Veronika A and Schnabel, Julia A and Zhuang, Xiahai}, 
-  booktitle={Medical Image Computing and Computer Assisted Intervention},
+  author={Li, Lei and Zimmer, Veronika A and Schnabel, Julia A and Zhuang, Xiahai},     
+  booktitle={Medical Image Computing and Computer Assisted Intervention},   
   pages={557--566},  
   year={2021}  
 }  
