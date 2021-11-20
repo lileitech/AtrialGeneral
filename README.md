@@ -1,7 +1,7 @@
 # AtrialGeneral
 
 ## Overview
-The repository contains the core codes of "[AtrialGeneral: Domain Generalization for Left Atrial Segmentation of Multi-Center LGE MRIs](https://arxiv.org/abs/2106.08727)".
+The repository contains the core codes of "[AtrialGeneral: Domain Generalization for Left Atrial Segmentation of Multi-Center LGE MRIs](https://link.springer.com/chapter/10.1007/978-3-030-87231-1_54)".
 The code includes four baseline models (U-Net, U-Net++, DeepLab v3+ and MAnet) and three model generalization schemes.
 The schemes include histogram matching (HM), mutual information based disentangled representation, and random style transfer.
 
@@ -14,7 +14,7 @@ The dataset employed in this work is from:
 If this code is useful for you, please kindly cite this work via:
 
 @InProceedings{conf/MICCAI/li2021,  
-  title={AtrialGeneral: Domain Generalization for Left Atrial Segmentation of Multi-Center LGE MRIs},  
+  title={Atrial{G}eneral: Domain Generalization for Left Atrial Segmentation of Multi-Center {LGE MRI}s},  
   author={Li, Lei and Zimmer, Veronika A and Schnabel, Julia A and Zhuang, Xiahai},     
   booktitle={Medical Image Computing and Computer Assisted Intervention},   
   pages={557--566},  
